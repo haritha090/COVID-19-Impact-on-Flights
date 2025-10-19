@@ -13,4 +13,4 @@ The project highlights a significant drop in flight activity and passenger numbe
 Python | Pandas | Data Cleaning | Data Aggregation | Visualization (Matplotlib) | Analytical Thinking
 
 # Dashboard
-![image alt]()
+![image alt](https://github.com/haritha090/COVID-19-Impact-on-Flights/blob/main/Screenshot%20(172).png?raw=true)
